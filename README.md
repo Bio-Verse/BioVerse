@@ -3,6 +3,10 @@ O projeto Bioverse é um jogo de biologia que esta sendo desenvolvido para pesso
 
 |---------|Equipe|---------|
 |Kauã Silva|Rodrigo Ribeiro|Matheus Malaquias|
+|Kauã Silva|Rodrigo Ribeiro|Matheus Malaquias|
+|Kauã Silva|Rodrigo Ribeiro|Matheus Malaquias|
+
+
 |Tela|Membro que desenvolveu|
 |---------|---------|
 Inicial|Malaquias
