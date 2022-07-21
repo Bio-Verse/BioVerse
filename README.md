@@ -1,7 +1,7 @@
 # BioVerse
 O projeto Bioverse é um jogo de biologia que esta sendo desenvolvido para pessoas com dificuldade e/ou interesse na área de ciencias biologicas 
 
-||Equipe||
+|Equipe|
 |-------------|----|---------|
 Kauã Silva|Rodrigo Ribeiro|Matheus Malaquias
 
